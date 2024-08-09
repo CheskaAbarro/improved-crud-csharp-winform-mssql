@@ -17,6 +17,7 @@ Note: You can decide if you want to create this database with query or not.
 **Step 2: Create a configuration**
 Right click on your project solution and click "Add new item". Then, under C# itemns, click "Data" and choose an XML file. Rename the XML file to "App.config" (not App.config.xml)
 ![image](https://github.com/user-attachments/assets/ba5399d7-c4b4-4d01-8dd3-cdc3567f1e06)
+
 In App.config, contains the following:
 ```
 <?xml version="1.0" encoding="utf-8" ?>
