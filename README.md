@@ -68,7 +68,8 @@ sensorTypeParameter.Value = txtSensorType.Text;
 cmd.Parameters.Add(sensorTypeParameter);
 ```
 
-![image](https://github.com/user-attachments/assets/5b0f24b8-f6be-4440-8949-559e81e31010)
+![image](https://github.com/user-attachments/assets/32b91603-7ba4-41e8-871d-13ea5e8b78ec)
+
 
 **Tip: Read all the comments and try to debug line by line in order to study it better.**
 
