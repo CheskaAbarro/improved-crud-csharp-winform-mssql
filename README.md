@@ -1,4 +1,4 @@
-# CRUDSampleWinForms
+# CRUD with Application Configuration and SQL Injection Prevention
 **This is just an improved CRUD functions using WinForms and MS SQL Server using SQL parameters and configuration management. Created with .NET 8 and MSSQL v20. This includes a simple error try and catch and does not include dependency injection and does not use MVVM format. This is just for beginner's practice guide!**
 
 Please check out my [simple-crud-winform-mssql](https://github.com/CheskaAbarro/simple-crud-winform-mssqql/tree/master) repository for a much simpler CRUD operations. I suggest you run and study the given link before studying this improvements. 
