@@ -34,6 +34,8 @@ Instead of directly coding the connection string on each behind-code, you can se
 
 
 **Step 3: Establish connection in your code**
+Install a NuGet package: ***Microsoft.Data.SqlClient***.
+Then, establish connection between visual studio and MS SQL. 
 In your behind-code, you can call your connection string using the following:
 ```
  string connectionString = ConfigurationManager.ConnectionStrings["SensorConnectionString"].ConnectionString;
